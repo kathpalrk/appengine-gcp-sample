@@ -53,6 +53,6 @@ https://my-second-app-dot-my-project-name.appspot.com
 I think it is a good idea to have a picture (worth a thousand words) presenting Google App Engine services hierarchy.
 
 
-![Image description] (hello.png)
+![Image description](hello.png)
 
 
